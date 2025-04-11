@@ -1,0 +1,134 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE directories
+.vs/
+.gradle/
+.consulo/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.meta
+*.mat
+*.anim
+*.txt
+*.ahbuildinfo
+*.controller
+
+*.prefab
+*.asmdef
+*.asmref
+*.asset
+*.mesh
+*.playable
+*.terrainlayer
+*.unity
+*.inputactions
+*.lighting
+*.mixer
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Unity Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Assets
+*.png
+*.jpg
+*.csv
+*.json
+
+# Include (不要ならコメントアウトを外す)
+# *.bat
+# *.cginc
+# *.hlsl
+# *.md
+# *.plist
+# *.shader
+# *.uss
+# *.uxml
+# *.xml
+# *.kt
+
+# Others
+sysinfo.txt
+*._
+*.aar
+*.bin
+*.cginc
+*.config
+*.disabled
+*.dll
+*.exr
+*.fbx
+*.gradle
+*.h
+*.html
+*.ini
+*.jar
+*.java
+*.jslib
+*.keystore
+*.m
+*.mask
+*.mm
+*.modulemap
+*.nuspec
+*.ogg
+*.p7s
+*.pdf
+*.pom
+*.properties
+*.props
+*.psd
+*.rendertexture
+*.rsp
+*.sett
+*.sh
+*.shadergraph
+*.shadersubgraph
+*.so
+*.spriteatlas
+*.svg
+*.swatch
+*.targets
+*.tga
+*.tgz
+*.ttf
+*.url
+*.wav
+*.webm
+*.webp
+*.xcprivacy
+*.yaml
+*.yml
