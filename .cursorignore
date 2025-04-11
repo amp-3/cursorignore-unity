@@ -35,9 +35,7 @@
 *.mat
 *.anim
 *.txt
-*.ahbuildinfo
 *.controller
-
 *.prefab
 *.asmdef
 *.asmref
@@ -49,6 +47,10 @@
 *.inputactions
 *.lighting
 *.mixer
+*.shadergraph
+*.shadersubgraph
+*.rendertexture
+*.spriteatlas
 
 # Build outputs
 *.apk
@@ -111,14 +113,10 @@ sysinfo.txt
 *.properties
 *.props
 *.psd
-*.rendertexture
 *.rsp
 *.sett
 *.sh
-*.shadergraph
-*.shadersubgraph
 *.so
-*.spriteatlas
 *.svg
 *.swatch
 *.targets
