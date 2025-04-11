@@ -1,0 +1,2 @@
+# About
+.cursorignore for Unity
