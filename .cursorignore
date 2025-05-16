@@ -51,6 +51,8 @@
 *.shadersubgraph
 *.rendertexture
 *.spriteatlas
+*.bytes
+*.tile
 
 # Build outputs
 *.apk
@@ -65,10 +67,22 @@
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Assets
-*.png
-*.jpg
 *.csv
 *.json
+*.cur
+*.ico
+*.psd
+*.bmp
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.tif
+*.tiff
+*.tga
+*.gif
+*.svg
+
 
 # Include (不要ならコメントアウトを外す)
 # *.bat
@@ -117,16 +131,13 @@ sysinfo.txt
 *.sett
 *.sh
 *.so
-*.svg
 *.swatch
 *.targets
-*.tga
 *.tgz
 *.ttf
 *.url
 *.wav
 *.webm
-*.webp
 *.xcprivacy
 *.yaml
 *.yml
