@@ -1,5 +1,5 @@
 # Unity generated directories
-/[Ll]ibrary/
+/[Ll]ibrary/*
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -8,6 +8,9 @@
 /[Uu]ser[Ss]ettings/
 /[Mm]emoryCaptures/
 /[Rr]ecordings/
+
+!/Library/PackageCache/
+!/Library/PackageCache/**
 
 # IDE directories
 .vs/
