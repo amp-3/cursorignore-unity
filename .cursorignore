@@ -144,3 +144,5 @@ sysinfo.txt
 *.xcprivacy
 *.yaml
 *.yml
+*.xcf
+*.bak
